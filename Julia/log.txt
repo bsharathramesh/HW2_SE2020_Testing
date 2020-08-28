@@ -49,3 +49,9 @@ Output=[0 0 0 0 0; 0 0 1 0 0; 0 0 1 0 0; 0 0 1 0 0; 0 0 0 0 0]
 Output=[0 0 0 0 0 0; 0 0 0 1 0 0; 0 1 0 1 0 0; 0 0 1 1 0 0; 0 0 0 0 0 0]
 2020-08-28T19:47:06.833  - Time the Program was Executed - Test Case 3 | Result - Fail
 Output=[0 0 0 0 0 0; 0 1 1 0 0 0; 0 1 0 0 0 0; 0 0 0 0 1 0; 0 0 0 1 1 0; 0 0 0 0 0 0]
+2020-08-28T19:47:40.163  - Time the Program was Executed - Test Case 1 | Result - Fail
+Output=[0 0 0 0 0; 0 0 1 0 0; 0 0 1 0 0; 0 0 1 0 0; 0 0 0 0 0]
+2020-08-28T19:47:40.563  - Time the Program was Executed - Test Case 2 | Result - Fail
+Output=[0 0 0 0 0 0; 0 0 0 1 0 0; 0 1 0 1 0 0; 0 0 1 1 0 0; 0 0 0 0 0 0]
+2020-08-28T19:47:40.566  - Time the Program was Executed - Test Case 3 | Result - Fail
+Output=[0 0 0 0 0 0; 0 1 1 0 0 0; 0 1 0 0 0 0; 0 0 0 0 1 0; 0 0 0 1 1 0; 0 0 0 0 0 0]
