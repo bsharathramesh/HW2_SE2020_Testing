@@ -14,3 +14,53 @@ Expected:
 [ 0  1  1  1  0 ]
 [ 0  0  0  0  0 ]
 [ 0  0  0  0  0 ]
+
+2020-08-28 19:53:53 - Time the Program was Executed - Test Case 1 | Result: True
+
+Result:
+[ 0  0  0  0  0 ]
+[ 0  0  0  0  0 ]
+[ 0  1  1  1  0 ]
+[ 0  0  0  0  0 ]
+[ 0  0  0  0  0 ]
+
+Expected:
+[ 0  0  0  0  0 ]
+[ 0  0  0  0  0 ]
+[ 0  1  1  1  0 ]
+[ 0  0  0  0  0 ]
+[ 0  0  0  0  0 ]
+
+2020-08-28 19:53:53 - Time the Program was Executed - Test Case 2 | Result: True
+
+Result:
+[ 0  1  0  0  0  1 ]
+[ 1  1  0  0  0  0 ]
+[ 1  0  0  0  0  0 ]
+[ 0  0  0  0  0  0 ]
+[ 0  0  0  0  0  0 ]
+
+Expected:
+[ 0  1  0  0  0  1 ]
+[ 1  1  0  0  0  0 ]
+[ 1  0  0  0  0  0 ]
+[ 0  0  0  0  0  0 ]
+[ 0  0  0  0  0  0 ]
+
+2020-08-28 19:53:53 - Time the Program was Executed - Test Case 3 | Result: True
+
+Result:
+[ 0  0  0  0  0  0 ]
+[ 0  1  1  0  0  0 ]
+[ 0  1  1  0  0  0 ]
+[ 0  0  0  1  1  0 ]
+[ 0  0  0  1  1  0 ]
+[ 0  0  0  0  0  0 ]
+
+Expected:
+[ 0  0  0  0  0  0 ]
+[ 0  1  1  0  0  0 ]
+[ 0  1  1  0  0  0 ]
+[ 0  0  0  1  1  0 ]
+[ 0  0  0  1  1  0 ]
+[ 0  0  0  0  0  0 ]
