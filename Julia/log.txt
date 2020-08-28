@@ -67,3 +67,9 @@ Output=[0 0 0 0 0; 0 0 0 0 0; 0 1 1 1 0; 0 0 0 0 0; 0 0 0 0 0]
 Output=[0 0 0 0 0 0; 0 0 1 0 0 0; 0 0 0 1 1 0; 0 0 1 1 0 0; 0 0 0 0 0 0]
 2020-08-28T19:50:07.353  - Time the Program was Executed - Test Case 3 | Result - Pass
 Output=[0 0 0 0 0 0; 0 1 1 0 0 0; 0 1 1 0 0 0; 0 0 0 1 1 0; 0 0 0 1 1 0; 0 0 0 0 0 0]
+2020-08-28T19:51:36.688  - Time the Program was Executed - Test Case 1 | Result - Pass
+Output=[0 0 0 0 0; 0 0 0 0 0; 0 1 1 1 0; 0 0 0 0 0; 0 0 0 0 0]
+2020-08-28T19:51:37.021  - Time the Program was Executed - Test Case 2 | Result - Pass
+Output=[0 1 0 0 0 1; 1 1 0 0 0 0; 1 0 0 0 0 0; 0 0 0 0 0 0; 0 0 0 0 0 0]
+2020-08-28T19:51:37.026  - Time the Program was Executed - Test Case 3 | Result - Pass
+Output=[0 0 0 0 0 0; 0 1 1 0 0 0; 0 1 1 0 0 0; 0 0 0 1 1 0; 0 0 0 1 1 0; 0 0 0 0 0 0]
