@@ -6,7 +6,7 @@ repo = Repo(repo_dir,search_parent_directories=True)
 
 #Please Enter The absolute path of the log.txt file here!
 # example : file_list = ['/home/sbangal2/SE2020/HW2_SE2020_Testing/Ruby/log.txt'] 
-file_list = ['<Update your path for log.txt>']
+file_list = ['/Users/nischalkashyap/Downloads/Fall 2020/SE2020/slave/Adarsh/HW2_SE2020_Testing/Ruby/log.txt']
 
 commit_message = "Testing Scenarios Logs"
 repo.index.add(file_list)
