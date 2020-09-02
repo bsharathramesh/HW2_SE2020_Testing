@@ -252,28 +252,42 @@ N -> Number of times the program was compiled
 
 D -> Debugging time. If the task is failed, D = 30
 
-## MATERIALS USED FOR TESTING
+## Materials Used for Testing
 
-Game of Life was implemented in Julia, Ruby and Swift. Ten testers opted to debug the three bugs in each language implemented. A VCL had to be provisioned by the testers to carry out the debugging process. Julia, Swift and Ruby was installed using the steps provided in the README file. Each time the testers executed the program, the log file to record each time the program was executed and the number of test cases passed or failed was pushed to their respective branches on Github. All testers were asked to fill a questionnaire regarding their professional expertise and knowledge in the above programming languages to ascertain how comfortable they are in debugging the code and if it significantly affected the amount of time it took for them to debug the bugs.
+- Game of Life was implemented in Julia, Ruby and Swift. Ten testers opted to debug the three bugs in each language implemented. A VCL had to be provisioned by the testers to carry out the debugging process. 
 
-## OBSERVATIONS
-1.) Most testers were not familiar with Julia, Ruby and Swift.
+- Julia, Swift and Ruby was installed using the steps provided in the README file. Each time the testers executed the program, the log file to record each time the program was executed and the number of test cases passed or failed was pushed to their respective branches on Github. 
 
-2.) Testers preferred to debug Ruby code first followed by Julia and Swift.
+- All testers were asked to fill a questionnaire regarding their professional expertise and knowledge in the above programming languages to ascertain how comfortable they are in debugging the code and if it significantly affected the amount of time it took for them to debug the bugs.
 
-3.) It was observed that the testers who had more affinity towards coding and logical thinking were able to solve the given problem much faster than the inexperienced.
+## Observations
+- Most testers were not familiar with Julia, Ruby and Swift.
 
-4.) It was also observed that professional experience didn’t contribute much to the efficiency of solving the problem.
+- Testers preferred to debug Ruby code first followed by Julia and Swift.
 
-5.) They could solve the problem with an average of 10% faster accuracy.
+- It was observed that the testers who had more affinity towards coding and logical thinking were able to solve the given problem much faster than the inexperienced.
 
-6.) On an average it was seen that at every 1.5 mins, a compilation was done in the program which showed that testers were keen on getting the solution rather than solving the problem.
+- It was also observed that professional experience didn’t contribute much to the efficiency of solving the problem.
 
-7.) We also had some outliers, who solved the problem with lesser code compilations.
+- They could solve the problem with an average of 10% faster accuracy.
+
+- On an average it was seen that at every 1.5 mins, a compilation was done in the program which showed that testers were keen on getting the solution rather than solving the problem.
+
+- We also had some outliers, who solved the problem with lesser code compilations.
 
 
-## CONCLUSION
-1.) The testers tend to take less time to debug the second and the third language than the first.
+## Conclusion
+- The testers tend to take less time to debug the second and the third language than the first.
 
-2.) It was seen that testers with math solving and logical thinking capability had a better advantage than the others.
+- It was seen that testers with math solving and logical thinking capability had a better advantage than the others.
+
+## Threats to Validity
+
+- Glitches in data collection due to ad hoc threats i.e the issue could present itself under a different name or category. Ex: Bad Internet connections, package version compatibility. To alleviate this, we could extensively come up with possible adhoc scenarios which we can preemptively address.
+
+- Minor hindrance to testing because the latest code was not available to test subjects (Due to github branch update issues). This issue was quickly resolved. In future projects, more emphasis will be given to ensure that the test subjects get to test the right software.
+
+- Insufficient data collection because test subjects forgot to provide their valuable inputs even after their agreement to do so. Even though this is an adhoc threat, we can always politely request the test subject to provide their valuable inputs and suggestions.
+
+- One major threat to validity is lack of diversity in test subjects. Most of our test subjects were freshers, therefore our analysis was biased towards freshers and we did not infer much information about people with experience. This was not in our control as test subjects were volunteers. To address this, we can create focus groups and have people volunteer for the focus group provided they meet the constraint of that group.
 
